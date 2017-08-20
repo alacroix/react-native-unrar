@@ -19,13 +19,13 @@
     "url": "git@github.com:alacroix/react-native-unrar.git"
   },
   "author": "Adrien Lacroix <npm@adrienlacroix.me> (https://github.com/alacroix)",
-  "license": "Apache",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/alacroix/react-native-unrar",
   "bugs": {
     "url": "https://github.com/alacroix/react-native-unrar/issues"
   },
   "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
+    "react": ">=15.4.0",
+    "react-native": "^0.41.2"
   }
 }

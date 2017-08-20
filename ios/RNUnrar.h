@@ -4,6 +4,8 @@
 #import <React/RCTBridgeModule.h>
 #endif
 
+#import <UnrarKit/UnrarKit.h>
+
 @interface RNUnrar : NSObject <RCTBridgeModule>
 
 @end

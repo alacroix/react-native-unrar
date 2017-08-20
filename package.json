@@ -1,0 +1,31 @@
+{
+  "name": "react-native-unrar",
+  "version": "0.1.0",
+  "description": "Unrar files with React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "archive",
+    "unrar",
+    "rar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alacroix/react-native-unrar.git"
+  },
+  "author": "Adrien Lacroix <npm@adrienlacroix.me> (https://github.com/alacroix)",
+  "license": "Apache",
+  "homepage": "https://github.com/alacroix/react-native-unrar",
+  "bugs": {
+    "url": "https://github.com/alacroix/react-native-unrar/issues"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
